@@ -26,7 +26,7 @@ Provides a high-level summary of supply chain reliability and the "Perfect Order
 - **Key Metric:** 61.3% OTIF Rate
 - **Insight:** Identifies a significant "In-Full" bottleneck at 72.3%
 
-![Executive OTIF Overview](Dashboard_Images/executive_otif_overview.png)
+![Executive OTIF Overview](Dashboards_Images/Executive_OTIF_Dashboard.png)
 
 ---
 
@@ -36,7 +36,7 @@ Drills down into specific inventory items driving fulfillment gaps.
 - **Key Metric:** Electronics category drives the highest lost revenue at **R805,647**
 - **Top Offender:** SKU-060 (**R29,513** in losses)
 
-![Product & SKU Performance](Dashboards%20Images/product_sku_performance.png)
+![Product & SKU Performance](Dashboards_Images/Product_&_SKU_Performance_Explorer_Dashboard.png)
 
 ---
 
@@ -46,7 +46,7 @@ Identifies inefficiencies in specific warehouse-carrier shipping lanes.
 - **Key Metric:** WH-CPT leads in lost revenue at **R793,539**
 - **Worst Lane:** WH-JHB to KZN via FastTrack (49.4% OTIF)
 
-![Root Cause Explorer](Dashboards%20Images/root_cause_explorer.png)
+![Root Cause Explorer](Dashboards_Images/Root_Cause_Explorer_Dashboard.png)
 
 ---
 
@@ -56,7 +56,7 @@ A tactical "heartbeat" view for real-time monitoring of daily volumes and failur
 - **Key Metric:** Daily Delivered Revenue averages between **R200k - R300k**
 - **Failure Analysis:** Short shipments and returns average **~50 units daily**
 
-![Daily Operation View](Dashboards%20Images/daily_operation_view.png)
+![Daily Operation View](Dashboards_Images/Daily_Operation_Views_Dashboard.png)
 
 ---
 
