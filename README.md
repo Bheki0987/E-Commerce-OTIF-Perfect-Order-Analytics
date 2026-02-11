@@ -1,7 +1,18 @@
 # 📦 E-Commerce OTIF & Perfect Order Analytics
 > **Transforming Supply Chain Inefficiency into Revenue Growth**
 
-This repository contains a multi-layered analytics suite designed to solve critical fulfillment challenges for a South African e-commerce leader. By measuring **On-Time In-Full (OTIF)** performance, this project identifies operational bottlenecks and quantifies revenue leakage.
+[![Tableau](https://img.shields.io/badge/Visualization-Tableau-blue.svg)](https://public.tableau.com/en-us)
+[![Python](https://img.shields.io/badge/Data_Processing-Python-green.svg)](https://www.python.org/)
+[![Google Colab](https://img.shields.io/badge/Environment-Google_Colab-yellow.svg)](https://colab.research.google.com/)
+
+This repository contains a multi-layered analytics suite designed to solve critical fulfillment challenges for a South African e-commerce leader. By leveraging **Python** for automated data cleaning and **Tableau** for strategic visualization, this project identifies operational bottlenecks and quantifies revenue leakage through **On-Time In-Full (OTIF)** modeling.
+
+---
+
+## 🛠️ Technical Stack & Tools
+
+* **Data Visualization:** **Tableau Desktop** — Utilized advanced features including LOD (Level of Detail) expressions, interactive parameters, and custom dashboard actions to create a cohesive executive reporting suite.
+* **Data Orchestration:** **Python (Pandas/NumPy)** — Engineered data cleaning pipelines in **Google Colab** to handle missing values, format logistics timestamps, and transform raw line-level fulfillment data into high-performance analytical datasets.
 
 [**🚀 View Interactive Tableau Dashboard**](https://public.tableau.com/views/E-CommerceOTIFPerfectOrderAnalytics/DailyOperationsView?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
